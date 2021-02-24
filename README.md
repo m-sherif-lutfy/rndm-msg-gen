@@ -1,0 +1,1 @@
+# README for Random Message Generator
